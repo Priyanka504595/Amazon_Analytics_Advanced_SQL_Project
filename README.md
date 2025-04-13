@@ -730,6 +730,7 @@ GO
 
 
 **Testing Store Procedure**
+```sql
 EXEC add_sales 
     @p_order_id = 25010, 
     @p_customer_id = 3, 
@@ -737,7 +738,7 @@ EXEC add_sales
     @p_order_item_id = 25007, 
     @p_product_id = 1, 
     @p_quantity = 5;
-
+```
 ---
 
 ---
