@@ -8,7 +8,7 @@
 
 ## **Project Overview**
 
-I have worked on analyzing a dataset of over 20,000 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
+I have worked on analyzing a dataset of over 21,000 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using Microsoft SQL Server. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
@@ -16,7 +16,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch](https://github.com/najirh/amazon_usa_project5/blob/main/erd2.png)
+![ERD Scratch](https://github.com/Priyanka504595/Amazon_Analytics_Advanced_SQL_Project/blob/master/ERD_image.jpg)
 
 ## **Database Setup & Design**
 
