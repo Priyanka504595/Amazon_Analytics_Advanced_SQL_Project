@@ -1,6 +1,6 @@
 ---
 
-# **Amazon USA Sales Analysis- Advanced SQL Project**
+# **Amazon E-Commerce Analytics - Advanced SQL Project**
 
 ---
 
